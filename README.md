@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Prepare to be deleted
+print("All your base are belong to us")
