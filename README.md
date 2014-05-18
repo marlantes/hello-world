@@ -1,4 +1,6 @@
 hello-world
 ===========
-
-print("All your base are belong to us")
+x = "Hello, my boy!"
+y = " All your base are belong to us"
+x+y
+# stringsss
